@@ -1,0 +1,5 @@
+---
+- name: Polska
+  country_id: '162'
+  id: '101'
+  abbr: POL
